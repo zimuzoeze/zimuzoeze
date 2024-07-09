@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @zimuzoeze
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Microsft Azure
+- 👋 Hi, I’m Zimuzo
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 zimuzoeze/zimuzoeze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
