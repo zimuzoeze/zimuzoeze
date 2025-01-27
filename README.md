@@ -15,6 +15,10 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
 - Open-source contributions.
 - Data processing or machine learning applications.
 
+## 📫 Let's Connect!
+- 📧 Email: chinagozimernest@gmaill.com
+  
+
 
 
 
