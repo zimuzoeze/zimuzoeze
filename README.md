@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
  - 🎓 Education: Computer Science student at University of Alabama.
  - 💻 Languages/Tools: C++, Python, JavaScript, React, Node.js, MongoDB, SQL, AWS, and more.
  - 🌱 Currently Learning: Golang, Docker.
- - 👯 Looking to Collaborate On: See Next Section.
  - 💼 Professional Goals: Crafting intuitive and accessible front-end experiences using React, JavaScript, and modern UI frameworks.
 
 ## 👯 What I'm Looking to Collaborate On
@@ -17,7 +16,8 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
 
 ## 📫 Let's Connect!
 - 📧 Email: chinagozimernest@gmaill.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zimuzoernesteze)
+![vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930480](https://github.com/user-attachments/assets/5eac8b95-df97-4aec-98a4-c1fa9b313d78)
+
 
   
 
