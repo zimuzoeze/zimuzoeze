@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
 
 ## 📫 Let's Connect!
 - 📧 Email: chinagozimernest@gmaill.com
-![vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930480](https://github.com/user-attachments/assets/5eac8b95-df97-4aec-98a4-c1fa9b313d78)
+- https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 
   
